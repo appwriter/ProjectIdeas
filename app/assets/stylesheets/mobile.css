@@ -2,5 +2,4 @@
 @media(max-width: 320px) {
 	div#wrapper, h2{ text-align:center; }
 	h2, .device{ width: 100%;}
-	.device{ text-align: left; }
 }
