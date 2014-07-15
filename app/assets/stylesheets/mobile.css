@@ -1,0 +1,4 @@
+//CSS
+@media(width: 320px) {
+.device{ background-color: yellow;width: 100%;}
+}
